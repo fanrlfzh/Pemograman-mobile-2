@@ -43,6 +43,8 @@ Layar 6: Daftar Menu Utama
 •	Tombol Kembali: Ikon panah di bagian bawah untuk kembali ke layar sebelumnya
 
 STORY BOARD
-![image](https://github.com/user-attachments/assets/be859327-fd2f-40d9-8d8a-9353ea3963e3)
+![Screenshot (863)](https://github.com/user-attachments/assets/64795b76-f4f9-43dd-b5f9-e4a829a85128)
+
+
 
 
