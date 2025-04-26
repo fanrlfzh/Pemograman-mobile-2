@@ -42,7 +42,7 @@ Layar 6: Daftar Menu Utama
 •	Grid Makanan: Menampilkan menu utama dalam bentuk grid, termasuk berbagai pilihan makanan seperti Oseng, Sate Taichan, dan Seblak
 •	Tombol Kembali: Ikon panah di bagian bawah untuk kembali ke layar sebelumnya
 
-STORY BOARD
+DESIGN
 ![image](https://github.com/user-attachments/assets/be859327-fd2f-40d9-8d8a-9353ea3963e3)
 
 
